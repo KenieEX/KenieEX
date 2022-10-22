@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/xuv4IQg.png" border="0">
 </div> 
 
-<img src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="350" height="450" align="right">
+<img src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="270" height="318" align="right">
 
 ### About me:
 - <img src="https://cdn3.emoji.gg/emojis/5891-pepelaptop.gif" width="27px"/>I am currently a student at Belgorod State National Research University.
