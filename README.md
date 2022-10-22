@@ -1,11 +1,23 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k5zu35npVsYfgZQwwl/giphy.gif">
-</div>
-<h1 align="center">Hi there, I'm Evgenii</a> 
-<img src="https://cdn3.emoji.gg/emojis/4482-pepehi.png" height="42"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
+  <img src="https://kartinkin.net/uploads/posts/2021-07/1626141528_61-kartinkin-com-p-anime-pro-khakerov-i-programmistov-anime-k-63.jpg">
+</div> 
+
+<div id="header" align="center">
+<img src="https://i.imgur.com/xuv4IQg.png" border="0">
+</div> 
+
+<img src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="350" height="450" align="right">
+
+### About me:
+- <img src="https://cdn3.emoji.gg/emojis/5891-pepelaptop.gif" width="29px"/>I am currently a student at Belgorod State National Research University.
+- <img src="https://cdn3.emoji.gg/emojis/2589-pepe4k.gif" width="29px"/>Just starting my career as a programmer, but I will strive to become a good specialist.
+- <img src="https://cdn3.emoji.gg/emojis/3824-peepolove.gif" width="25px"/>Will be glad of your help and I will help you in any way I can. 
+- <img src="https://cdn3.emoji.gg/emojis/5799-djpeepo.gif" width="25px"/>Want to become a based GigaChad<img src="https://cdn3.emoji.gg/emojis/8748_gigachad.png" width="25px"/> in this industry. 
+ 
+
 
 ### Languages and Tools:
+
 <div id="badges">
   <img allign="left" alt = "C++ Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
   <img allign="left" alt = "C Icon" width="43px" src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
