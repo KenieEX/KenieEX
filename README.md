@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://kartinkin.net/uploads/posts/2021-07/1626141528_61-kartinkin-com-p-anime-pro-khakerov-i-programmistov-anime-k-63.jpg">
+  <img src="https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif" width="100%" height="450">
 </div> 
 
 <div id="header" align="center">
