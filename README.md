@@ -4,10 +4,6 @@ _____
 
 _______
 
-<div id="header" align="center">
-<img src="https://i.imgur.com/xuv4IQg.png" border="0">
-</div> 
-
 <img src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="300" height="380" align="right">
 
 ### About me:
