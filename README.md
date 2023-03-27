@@ -1,6 +1,6 @@
 _____
 
-<img src="https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif" width="100%" height="500">
+<img src="https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif" width="100%" height="100%">
 
 _______
 
