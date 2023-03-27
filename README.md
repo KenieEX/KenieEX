@@ -4,7 +4,7 @@ _____
 
 _______
 
-<img src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="300" height="380" align="right">
+<img src="https://i.pinimg.com/originals/4c/ab/15/4cab153a725a9b88cd2d12031e4c5bdb.gif" width="300" height="380" align="right">
 
 ## About me:
 - <img src="https://cdn3.emoji.gg/emojis/5891-pepelaptop.gif" width="27px"/>I am currently a student at Belgorod State National Research University.
