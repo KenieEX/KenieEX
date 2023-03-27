@@ -17,14 +17,12 @@ _______
 ### Languages and Tools:
 
 <div id="badges">
-  <img allign="left" alt = "C++ Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
-  <img allign="left" alt = "C Icon" width="43px" src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
-  <img allign="left" alt = "Python Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-  <img allign="left" alt = "HTML Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-  <img allign="left" alt = "GitHub Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-  <img allign="left" alt = "Visual Studio Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png"/>
-  <img allign="left" alt = "Visual Studio Code Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
-  <img allign="left" alt = "Pycharm Icon" width="40px" src ="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"/>
+  <img allign="left" alt = "C++" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"/>
+  <img allign="left" alt = "HTML" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"/>
+   <img allign="left" alt = "CSS" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"/>
+  <img allign="left" alt = "javascript" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
+ <img allign="left" alt = "Vscode" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
+  <img allign="left" alt = "Figma" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"/>
 </div>
 
 <br/>
