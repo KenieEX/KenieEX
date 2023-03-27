@@ -10,7 +10,7 @@ _______
 - <img src="https://cdn3.emoji.gg/emojis/5891-pepelaptop.gif" width="27px"/>I am currently a student at Belgorod State National Research University.
 - <img src="https://cdn3.emoji.gg/emojis/2589-pepe4k.gif" width="27px"/>Just starting my career as a programmer, but I will strive to become a good specialist.
 - <img src="https://cdn3.emoji.gg/emojis/3824-peepolove.gif" width="27px"/>Will be glad of your help and I will help you in any way I can. 
-- <img src="https://cdn3.emoji.gg/emojis/5799-djpeepo.gif" width="27px"/>Want to become a based GigaChad<img src="https://cdn3.emoji.gg/emojis/8748_gigachad.png" width="25px"/> in this industry. 
+
  
 
 
