@@ -1,23 +1,33 @@
-_____
+<img src="https://i.pinimg.com/originals/2c/0e/9e/2c0e9ed04ed613c8b40468ad7c36e74a.jpg"  />
 
-<img src="https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif" width="100%" height="100%">
+<h2 align="center">About me <img src="https://cdn3.emoji.gg/emojis/9014-saulmoment.png" width="40px" height="40px" alt="saulmoment"></h2>
 
-_______
+<p align="center">
+Hello! My name is Evgeny and I am a developer. I am currently a student at Belgorod National Research University. I would be happy to work with you on a project. If you are interested, please email me. 
 
-## About me:
-- <img src="https://cdn3.emoji.gg/emojis/5891-pepelaptop.gif" width="27px"/>I am currently a student at Belgorod State National Research University.
-- <img src="https://cdn3.emoji.gg/emojis/2589-pepe4k.gif" width="27px"/>Just starting my career as a programmer, but I will strive to become a good specialist.
-- <img src="https://cdn3.emoji.gg/emojis/3824-peepolove.gif" width="27px"/>Will be glad of your help and I will help you in any way I can. 
+</p>
+
+<h2 align="center">Technology Stack <img src="https://cdn3.emoji.gg/emojis/8104-walter-dog.png" width="40"></h2>
+
+<p align="center"> 
  
-## Tech stack:
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
+</p>
 
-<div id="badges">
-  <img allign="left" alt = "C++" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"/>
-  <img allign="left" alt = "HTML" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"/>
-   <img allign="left" alt = "CSS" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"/>
-  <img allign="left" alt = "javascript" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
- <img allign="left" alt = "Vscode" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
-  <img allign="left" alt = "Figma" width="40px" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"/>
-</div>
+<h2 align="center"> My Github Stats <img src="https://cdn3.emoji.gg/emojis/8135-ghost-mw2.png" width="40px" height="40px"></h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=KenieEX&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KenieEX&theme=radical">
+</p>
 
 <br/>
+
+
