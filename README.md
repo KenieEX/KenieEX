@@ -31,4 +31,21 @@ Hello! My name is Evgeny and I am a developer. I am currently a student at Belgo
 
 <br/>
 
+<h2 align="center">Socials</h2>
 
+<p align="center">
+ 
+ <a href="mailto: roflendler@gmail.com"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:roflendler@gmail.com"/>
+</a>
+ 
+  <a href="https://twitter.com/ClownGlock">
+ <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ClownGlock"/>
+</a>
+
+<a href="https://discordapp.com/users/401821618084773910">
+ <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/401821618084773910"/>
+</a>
+  
+  
+ </p>
