@@ -2,7 +2,7 @@
 
 <h2 align="center">About me <img src="https://cdn3.emoji.gg/emojis/9014-saulmoment.png" width="40px" height="40px" alt="saulmoment"></h2>
 
-<p align="center">
+<p>
 Hello! My name is Evgeny and I am a developer. I am currently a student at Belgorod National Research University. I would be happy to work with you on a project. If you are interested, please email me. 
 
 </p>
@@ -18,6 +18,7 @@ Hello! My name is Evgeny and I am a developer. I am currently a student at Belgo
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 </p>
 
