@@ -2,10 +2,26 @@
 
 <h2 align="center">About me <img src="https://cdn3.emoji.gg/emojis/9014-saulmoment.png" width="40px" height="40px" alt="saulmoment"></h2>
 
-<p>
+<p align="center">
 Hello! My name is Evgeny and I am a developer. I am currently a student at Belgorod National Research University. I would be happy to work with you on a project. If you are interested, please email me. 
-
 </p>
+
+<p align="center">
+ 
+ <a href="mailto: roflendler@gmail.com"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:roflendler@gmail.com"/>
+</a>
+ 
+  <a href="https://twitter.com/ClownGlock">
+ <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ClownGlock"/>
+</a>
+
+<a href="https://discordapp.com/users/401821618084773910">
+ <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/401821618084773910"/>
+</a>
+   
+ </p>
+
 
 <h2 align="center">Technology Stack <img src="https://cdn3.emoji.gg/emojis/8104-walter-dog.png" width="40"></h2>
 
@@ -30,22 +46,3 @@ Hello! My name is Evgeny and I am a developer. I am currently a student at Belgo
 </p>
 
 <br/>
-
-<h2 align="center">Socials</h2>
-
-<p align="center">
- 
- <a href="mailto: roflendler@gmail.com"/>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:roflendler@gmail.com"/>
-</a>
- 
-  <a href="https://twitter.com/ClownGlock">
- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ClownGlock"/>
-</a>
-
-<a href="https://discordapp.com/users/401821618084773910">
- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/401821618084773910"/>
-</a>
-  
-  
- </p>
