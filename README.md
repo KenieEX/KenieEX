@@ -20,6 +20,10 @@ Hello! My name is Evgeny and I am a developer. I am currently a student at Belgo
  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/401821618084773910"/>
 </a>
    
+   <a href="https://vk.com/roflendler">
+ <img src="https://img.shields.io/badge/VKontakte-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/roflendler"/>
+</a>
+   
  </p>
 
 
